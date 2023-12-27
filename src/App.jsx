@@ -1,3 +1,4 @@
+import React from "react";
 import { NavBar, Hero, Generate, FAQ, Footer, Contact } from "./components";
 function App() {
   return (
